@@ -1,0 +1,8 @@
+// Commonly searched Karnataka villages/towns and all 31 districts.
+// Free text remains enabled because Karnataka has tens of thousands of villages.
+export const karnatakaDistricts = [
+  'Bagalkote','Ballari','Belagavi','Bengaluru Rural','Bengaluru Urban','Bidar','Chamarajanagar','Chikkaballapur','Chikkamagaluru','Chitradurga','Dakshina Kannada','Davanagere','Dharwad','Gadag','Hassan','Haveri','Kalaburagi','Kodagu','Kolar','Koppal','Mandya','Mysuru','Raichur','Ramanagara','Shivamogga','Tumakuru','Udupi','Uttara Kannada','Vijayanagara','Vijayapura','Yadgir'
+];
+export const karnatakaVillages = [
+  'Aland','Athani','Aurad','Badami','Bagepalli','Bailhongal','Bantwal','Basavakalyan','Belthangady','Bhalki','Bhatkal','Bhadravati','Bidar','Bilgi','Byadgi','Challakere','Channagiri','Channapatna','Chikodi','Chikkaballapur','Chikkamagaluru','Chikkanayakanahalli','Chincholi','Chintamani','Chitradurga','Dandeli','Davanagere','Devanahalli','Dharwad','Gadag','Gangavathi','Gokak','Gonikoppal','Gundlupet','Haliyal','Hangal','Harapanahalli','Harihar','Hassan','Haveri','Hebri','Hiriyur','Honavar','Hoskote','Hospet','Hubballi','Hukkeri','Humnabad','Jamkhandi','Jevargi','Kadur','Kalaburagi','Karkala','Karwar','Khanapur','Kodagu','Kolar','Kollegal','Koppa','Koppal','Kudligi','Kumta','Kundapura','Kunigal','Lingsugur','Maddur','Madhugiri','Malavalli','Mandya','Manvi','Mudhol','Mudigere','Mulbagal','Mundargi','Mysuru','Nanjangud','Nelamangala','Puttur','Raichur','Ramanagara','Ranebennur','Robertsonpet','Sagar','Sakleshpur','Sandur','Saundatti','Shahapur','Shikaripura','Shiggaon','Shivamogga','Sidlaghatta','Sirsi','Sorab','Sringeri','Srinivaspur','Sullia','Talikota','Tarikere','Tiptur','Tirthahalli','Tumakuru','Udupi','Vijayapura','Yadgir','Yelahanka'
+];
